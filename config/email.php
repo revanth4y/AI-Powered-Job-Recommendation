@@ -5,7 +5,7 @@
 define('SMTP_HOST', 'smtp.gmail.com');
 define('SMTP_PORT', 587);
 define('SMTP_USERNAME', 'aibasedjobrecomendationsystem@gmail.com'); // Gmail address
-define('SMTP_PASSWORD', 'taojttdatezdmqkj'); // Gmail App Password
+define('SMTP_PASSWORD', '****************'); // Gmail App Password
 define('SMTP_FROM_EMAIL', 'aibasedjobrecomendationsystem@gmail.com'); // Gmail address
 define('SMTP_FROM_NAME', 'AI Job System');
 
